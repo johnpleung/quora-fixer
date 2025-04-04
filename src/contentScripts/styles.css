@@ -1,0 +1,9 @@
+/* Get rid of side bar */
+#mainContent + .q-box {
+    display: none;
+}
+
+/* Get rid of stuff we know is garbage */
+.quora-garbage, .dom_annotate_multifeed_bundle_AdBundle, .dom_annotate_ad_image_ad {
+    display: none;
+}
