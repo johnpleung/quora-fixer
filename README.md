@@ -3,6 +3,19 @@
 ## What This Thing Does
 
 This extension makes Quora usable by getting rid of the ads and unrelated content.
+<br>
+<br>
+
+## How to Install This Thing
+
+Install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/quora-fixer/kplocbfcpmjlmamnepllpnekimalipha).
+<br>
+<br>
+
+## How To Use This Thing
+
+1. Install it.
+<br><br>
 
 ## How to Support This Thing
 
